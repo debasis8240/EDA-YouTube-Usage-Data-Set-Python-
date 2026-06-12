@@ -1,9 +1,7 @@
-# EDA-YouTube-Usage-Data-Set-Python-
-
 # 📊 EDA-YouTube-Usage-Data-Set-(Python)
 
 ## 📌 Project Overview
-This project focuses on performing **Exploratory Data Analysis (EDA)** on YouTube data to uncover meaningful insights about trending videos, audience engagement, and content performance.
+This project focuses on performing **Exploratory Data Analysis (EDA)** on YouTube data to uncover meaningful insights about sentiment of users through comments, emoji Usage analysis, and category ruling youtube overtime, viral video trends, relation between view & like, channel like longest no of views.
 
 The analysis includes data cleaning, preprocessing, visualization, and extracting insights using Python libraries like Numpy, pandas, Matplotlib.
 
@@ -25,21 +23,17 @@ The analysis includes data cleaning, preprocessing, visualization, and extractin
 - NumPy
 - Matplotlib
 - Seaborn
-- Plotly
+
 
 ---
 
 ## 📂 Dataset Features
 The dataset contains:
-- Video Title
-- Channel Name
-- Views
-- Likes
-- Comments
-- Category
-- Publish Time
-- Trending Date
-- Tags
+- Video id
+- comment_text
+- likes
+- replies
+- 
 
 ---
 

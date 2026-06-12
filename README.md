@@ -5,7 +5,7 @@ A complete Exploratory Data Analysis (EDA) and Sentiment Analysis project on You
 This project focuses on understanding audience engagement, user sentiment, emoji usage, trending categories, and channel performance through data visualization and NLP techniques.
 
 The analysis includes data cleaning, preprocessing, visualization, and extracting insights using Python libraries like Numpy, pandas, Matplotlib.
-<img width="750" height="500" alt="9074555_1591250182_youtube" src="https://github.com/user-attachments/assets/fd986bef-d953-4204-b9d1-ef92aeef667a" />
+<img width="1050" height="500" alt="9074555_1591250182_youtube" src="https://github.com/user-attachments/assets/fd986bef-d953-4204-b9d1-ef92aeef667a" />
 
 
 ---

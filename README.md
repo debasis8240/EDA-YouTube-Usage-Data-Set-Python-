@@ -28,16 +28,34 @@ The analysis includes data cleaning, preprocessing, visualization, and extractin
 ---
 
 ## 📂 Dataset Features
-The dataset contains:
+The dataset(UScomments) contains:
 - Video id
 - comment_text
 - likes
 - replies
-- 
+  
+The dataset (youtube_sample) contains:
+- video_id
+- trending_date
+- title
+- channel_title
+- category_id
+- publish_time
+- tags
+- views
+- likes
+- dislikes
+- comment_count
+- thumbnail_link
+- comments_disabled
+- ratings_disabled
+- video_error_or_removed
+- description
 
 ---
 
-## 📊 Analysis Performed
+
+## 📊Steps and Workflow
 
 ### 🔹 Data Cleaning
 - Handling missing values
@@ -52,6 +70,8 @@ The dataset contains:
 - Correlation heatmaps
 - Engagement analysis
 
+### 🔹 Key Findings and Insights
+-
 ### 🔹 Data Visualization
 - Bar Charts
 - Pie Charts
